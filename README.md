@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+最初のリポジトリ
+
+日本語化しました。
